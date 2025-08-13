@@ -12,6 +12,10 @@ bundle config path vendor/bundle
 bundle config mirror.https://rubygems.org https://gems.ruby-china.com
 ```
 
+
+
+> `.bundle/config`
+
 ```bash
 bundle config set --local deployment 'true'
 ```
