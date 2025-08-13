@@ -13,6 +13,7 @@ gem sources --add https://gems.ruby-china.com/ --remove https://rubygems.org/
 
 ```bash
 gem update --system --verbose -N
+gem env
 ```
 
 
